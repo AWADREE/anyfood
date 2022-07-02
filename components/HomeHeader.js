@@ -41,7 +41,7 @@ const HomeHeader = () => {
             style={{
               color: COLORS.white,
               fontSize: SIZES.small,
-              fontWeight: "100",
+              fontWeight: "300",
               fontStyle: "italic",
             }}
           >
