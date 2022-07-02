@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620209233873",
+    "firebase_url": "https://anyfood-2cdbd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "anyfood-2cdbd",
+    "storage_bucket": "anyfood-2cdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620209233873:android:0f2a919646b6851a3b4af0",
+        "android_client_info": {
+          "package_name": "com.anyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620209233873-e8b8vp1avo09ega59a6f9c6s8i6r9pjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anyfood",
+            "certificate_hash": "f413dd89a50281ea100e8e9f6e1a93ec502f8aea"
+          }
+        },
+        {
+          "client_id": "620209233873-9n3khrbjtl6lk3t5nma4jnafnkpetkrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvbZBLrT9hxbohRVXQO3Z2B8YfhhrmQw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620209233873-9n3khrbjtl6lk3t5nma4jnafnkpetkrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620209233873-42ute3mhueaj3h6gq61c7lsu1csjm5ve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
