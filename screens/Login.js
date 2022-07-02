@@ -57,6 +57,7 @@ const Login = () => {
       // console.log(accessToken)
       setLoading(false);
     } catch (error) {
+      setLoading(false);
       console.log(error);
     }
     

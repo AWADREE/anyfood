@@ -29,7 +29,7 @@ const Checkout = ({ route }) => {
     <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.white }}>
       <FocusedStatusBar background={COLORS.primary} />
       <ScrollView style={{ flexGrow: 1 , padding:SIZES.small/2}}>
-        <View style={{ padding: SIZES.small, marginTop:SIZES.medium }}>
+        {/* <View style={{ padding: SIZES.small, marginTop:SIZES.medium }}>
           <Text
             style={{
               fontFamily: FONTS.bold,
@@ -47,7 +47,7 @@ const Checkout = ({ route }) => {
           >
             {user.locationString}
           </Text>
-        </View>
+        </View> */}
         <View
           style={{
             width: "100%",

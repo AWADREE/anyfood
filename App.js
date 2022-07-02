@@ -38,7 +38,8 @@ const App = () => {
             tabBarStyle: {
               borderRadius: 15,
               height: "9%",
-              maxHeight:65
+              maxHeight:65,
+              minHeight: 56
             },
           }}>
           <Tab.Screen
